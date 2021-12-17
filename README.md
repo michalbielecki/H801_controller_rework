@@ -6,8 +6,8 @@ As a result controller does not blink at power-on. Apart from soldering around 3
 
 ## Few pictures of soldered rework
 
-![Bottom](https://drive.google.com/uc?export=view&id=1J0bWCz5dOl8yfjzdzitqj6lRfPpcf-Js)
+![Bottom](https://imgur.com/JyQBpLd.jpg)
 
-![Castellated_holes_1](https://drive.google.com/uc?export=view&id=1DXxfXCXiGfn_CGghVTbIoBnKZOOvUXuQ)
+![Castellated_holes_1](https://imgur.com/4sjXO8r.jpg)
 
-![Castellated_holes_2](https://drive.google.com/uc?export=view&id=1DQ7U4cFWYpTzrBxF3S5hT8qquOEpDPBK)
+![Castellated_holes_2](https://imgur.com/NyuBWcN.jpg)
